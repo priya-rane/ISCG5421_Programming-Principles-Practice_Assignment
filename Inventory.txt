@@ -1,0 +1,9 @@
+ID     , Name             , Price , Quantity
+LIP123  /   MAC Lip color  /   34  /   50  / 
+LIP122  /   Lakme Lipstick  /   15  /   30  / 
+LIP124  /   Revlon Lip liner  /   12  /   30  / 
+LIP125  /   Lakme Lip balm  /   10  /   20  / 
+EYE112  /   Eyeliner  /   10  /   50  / 
+EYE114  /   Eye Shadow  /   22  /   40  / 
+FAC345  /   Face powder  /   8    /   45    / 
+FAC556  /   Foundation  /   55   /   30   / 
